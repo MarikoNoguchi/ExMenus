@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        />
+    <item
+        android:id="@+id/help"
+        android:icon="@mipmap/ic_menu_help_holo_light"
+        app:showAsAction="ifRoom"
+        android:title="Help" />
+</menu>
